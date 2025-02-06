@@ -48,7 +48,7 @@
 ### 🤝 Connect With Me:
 <p align="center">
   <a href="https://linkedin.com/in/lutfor-rahman-sohan" target="_blank" style="margin: 0 15px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
-  <a href="your-twitter-link" target="_blank" style="margin: 0 15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40"/></a>
+  <a href="[your-twitter-link](https://x.com/LutforSohan)" target="_blank" style="margin: 0 15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40"/></a>
 </p>
 
 ---

@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ### <h1 align="center">Hello, I'm Lutfor Rahman Sohan! 👋</h1>
 #### <h3 align="center">🚀 Data & Business Analytics Enthusiast | Proficient in Python, Power BI, Excel, SQL | Data-Driven Strategy & Reporting.</h3>

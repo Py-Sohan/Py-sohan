@@ -1,6 +1,9 @@
-
-
 ### <h1 align="center">Hello, I'm Lutfor Rahman Sohan! 👋</h1>
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGhGIqYA8wgDA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739098479597?e=1744848000&v=beta&t=2WJ0HML6kwnwdWRcao76shlrrAJyZqJcyzY9vkwa3qg" alt="Banner" width="100%"/>
+</p>
+
 #### <h3 align="center">🚀 Data & Business Analytics Enthusiast | Proficient in Python, Power BI, Excel, SQL | Data-Driven Strategy & Reporting.</h3>
 
 ---
@@ -45,17 +48,6 @@
 
 ---
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_badge.svg)](https://repography.com)
-[![Timeline graph](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_timeline.svg)](https://github.com/clap-rs/clap/commits)
-[![Issue status graph](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_issues.svg)](https://github.com/clap-rs/clap/issues)
-[![Pull request status graph](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_prs.svg)](https://github.com/clap-rs/clap/pulls)
-[![Trending topics](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_words.svg)](https://github.com/clap-rs/clap/commits)
-[![Top contributors](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_users.svg)](https://github.com/clap-rs/clap/graphs/contributors)
-[![Activity map](https://images.repography.com/0/clap-rs/clap/recent-activity/d751713988987e9331980363e24189ce_map.svg)](https://github.com/clap-rs/clap/commits)
-
-
----
-
 ### 🤝 Connect With Me:
 <p align="center">
   <a href="https://linkedin.com/in/lutfor-rahman-sohan" target="_blank" style="margin: 0 15px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/></a>
@@ -70,4 +62,3 @@
 - 🌎 Passionate about learning new technologies and automation.
 
 🔹 *Feel free to connect with me!* 🚀
-

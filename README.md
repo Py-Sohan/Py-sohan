@@ -1,7 +1,8 @@
 ### <h1 align="center">Hello, I'm Lutfor Rahman Sohan! 👋</h1>
 
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGhGIqYA8wgDA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739098479597?e=1744848000&v=beta&t=2WJ0HML6kwnwdWRcao76shlrrAJyZqJcyzY9vkwa3qg" alt="Banner" width="100%"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGhGIqYA8wgDA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739098479597?e=1750896000&v=beta&t=TyvPEgrahY94o4IkngEVtpPKgxuNMy9uyUESr3WQxDg" alt="Banner" width="100%"/>
 </p>
 
 #### <h3 align="center">🚀 Data & Business Analytics Enthusiast | Proficient in Python, Power BI, Excel, SQL | Data-Driven Strategy & Reporting.</h3>
